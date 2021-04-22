@@ -1,6 +1,6 @@
-# v2ray-agent-user-center
+# xray-agent-admin-ui
 
-- 后台管理端
+- 后台管理端前端
 
 ## 捐赠
 
